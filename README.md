@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 最终目标：通用人工智能
 
 You can use the [editor on GitHub](https://github.com/zhaojun-hopeandwait/ai/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
